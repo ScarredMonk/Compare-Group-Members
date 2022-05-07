@@ -1,0 +1,8 @@
+C:\Users\dev\source\repos\Compare-GroupMembers\bin\Debug\Compare-GroupMembers.exe.config
+C:\Users\dev\source\repos\Compare-GroupMembers\bin\Debug\Compare-GroupMembers.exe
+C:\Users\dev\source\repos\Compare-GroupMembers\bin\Debug\Compare-GroupMembers.pdb
+C:\Users\dev\source\repos\Compare-GroupMembers\obj\Debug\Compare-GroupMembers.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\Compare-GroupMembers\obj\Debug\Compare-GroupMembers.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\Compare-GroupMembers\obj\Debug\Compare-GroupMembers.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Compare-GroupMembers\obj\Debug\Compare-GroupMembers.exe
+C:\Users\dev\source\repos\Compare-GroupMembers\obj\Debug\Compare-GroupMembers.pdb
